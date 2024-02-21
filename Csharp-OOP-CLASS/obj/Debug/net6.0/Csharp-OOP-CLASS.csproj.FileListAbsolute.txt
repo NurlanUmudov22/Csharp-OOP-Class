@@ -1,0 +1,14 @@
+C:\Users\nurlanmu\Desktop\Csharp hometask\Csharp-OOP-Class\Csharp-OOP-CLASS\Csharp-OOP-CLASS\bin\Debug\net6.0\Csharp-OOP-CLASS.exe
+C:\Users\nurlanmu\Desktop\Csharp hometask\Csharp-OOP-Class\Csharp-OOP-CLASS\Csharp-OOP-CLASS\bin\Debug\net6.0\Csharp-OOP-CLASS.deps.json
+C:\Users\nurlanmu\Desktop\Csharp hometask\Csharp-OOP-Class\Csharp-OOP-CLASS\Csharp-OOP-CLASS\bin\Debug\net6.0\Csharp-OOP-CLASS.runtimeconfig.json
+C:\Users\nurlanmu\Desktop\Csharp hometask\Csharp-OOP-Class\Csharp-OOP-CLASS\Csharp-OOP-CLASS\bin\Debug\net6.0\Csharp-OOP-CLASS.dll
+C:\Users\nurlanmu\Desktop\Csharp hometask\Csharp-OOP-Class\Csharp-OOP-CLASS\Csharp-OOP-CLASS\bin\Debug\net6.0\Csharp-OOP-CLASS.pdb
+C:\Users\nurlanmu\Desktop\Csharp hometask\Csharp-OOP-Class\Csharp-OOP-CLASS\Csharp-OOP-CLASS\obj\Debug\net6.0\Csharp-OOP-CLASS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nurlanmu\Desktop\Csharp hometask\Csharp-OOP-Class\Csharp-OOP-CLASS\Csharp-OOP-CLASS\obj\Debug\net6.0\Csharp-OOP-CLASS.AssemblyInfoInputs.cache
+C:\Users\nurlanmu\Desktop\Csharp hometask\Csharp-OOP-Class\Csharp-OOP-CLASS\Csharp-OOP-CLASS\obj\Debug\net6.0\Csharp-OOP-CLASS.AssemblyInfo.cs
+C:\Users\nurlanmu\Desktop\Csharp hometask\Csharp-OOP-Class\Csharp-OOP-CLASS\Csharp-OOP-CLASS\obj\Debug\net6.0\Csharp-OOP-CLASS.csproj.CoreCompileInputs.cache
+C:\Users\nurlanmu\Desktop\Csharp hometask\Csharp-OOP-Class\Csharp-OOP-CLASS\Csharp-OOP-CLASS\obj\Debug\net6.0\Csharp-OOP-CLASS.dll
+C:\Users\nurlanmu\Desktop\Csharp hometask\Csharp-OOP-Class\Csharp-OOP-CLASS\Csharp-OOP-CLASS\obj\Debug\net6.0\refint\Csharp-OOP-CLASS.dll
+C:\Users\nurlanmu\Desktop\Csharp hometask\Csharp-OOP-Class\Csharp-OOP-CLASS\Csharp-OOP-CLASS\obj\Debug\net6.0\Csharp-OOP-CLASS.pdb
+C:\Users\nurlanmu\Desktop\Csharp hometask\Csharp-OOP-Class\Csharp-OOP-CLASS\Csharp-OOP-CLASS\obj\Debug\net6.0\Csharp-OOP-CLASS.genruntimeconfig.cache
+C:\Users\nurlanmu\Desktop\Csharp hometask\Csharp-OOP-Class\Csharp-OOP-CLASS\Csharp-OOP-CLASS\obj\Debug\net6.0\ref\Csharp-OOP-CLASS.dll
